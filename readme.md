@@ -5,7 +5,7 @@ sales patterns, product performance, and revenue trends of a New York based coff
 shop chain using Python.
 
 
-## Short Description / Purpose
+## Purpose of the Project
 
 Coffee shops generate thousands of transactions daily, yet most small businesses lack 
 a clear and structured way to track which products are selling, how each store is 
@@ -40,26 +40,32 @@ product category, product type and product detail.
 
 ## Business Questions, Insights & Recommendations
 **1. Which product category do customers buy the most?**
+- Chart Used : Bar Chart
 - Insight : Coffee and Tea together account for over 69% of all units sold
 - Recommendation : Introduce seasonal coffee and tea variants to maintain demand. Bundle them with low selling items like Packaged Chocolate and Flavours to boost their sales.
 
 **2. Which store location generates the most revenue?**
+- Chart Used : Column Chart
 - Insight : All 3 stores perform almost equally — similar sales, revenue and transactions. No single store is significantly ahead or behind.
 - Recommendation : Focus on reducing operation costs to improve profit margin. Consistent performance in store model is ideal for expanding to new locations.
 
 **3. How did revenue change month over month?**
+- Chart Used : Line Chart
 - Insight : Revenue grew steadily from January to June, peaking around May-June. The  drop in December is due to incomplete data — only 6 days of December are recorded.
 - Recommendation : Run special offers before May-June to maximize peak sales. During slow months, introduce discounts and repeat customer deals to maintain revenue.
 
 **4. Which store is most active ?**
+- Chart Used : Countplot
 - Insight : All stores are equally active and receive similar number of orders. No single store dominates in customer footfall. 
 - Recommendation : Since data shows active customer demands. Business can expand and introduce branches in other locations.
 
 **5. Which factors — quantity ordered or unit price — have a stronger impact on revenue?**
+- Chart Used : Heatmap
 - Insight : Unit price has a stronger impact on revenue (0.69) than quantity ordered (0.36) — meaning selling higher priced products matters more than selling more items."
 - Recommendation : Focus on promoting premium and higher priced products like coffee beans and branded items to increase revenue.
 
 **6. What is the typical order size of a customer per transaction?**
+- Chart Used : Histogram
 - Insight : Most customers order only 1 or 2 items per transaction. 
 - Recommendation : Introduce combo offers like 'Coffee + Snack' deals to encourage customers to buy more items per visit.
 
