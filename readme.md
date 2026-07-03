@@ -17,7 +17,7 @@ Raw Data → Data Cleaning (Pandas) → Exploratory Data Analysis (Pandas) → V
 
 3. **Revenue Driver :** Correlation analysis shows that unit price (0.69) has a stronger relationship with revenue than quantity sold (0.36). This suggests that promoting higher-value products may have a greater impact on revenue growth than focusing only on increasing sales volume.
 
-4. **Customer Purchase Behavious :** Most customers purchase one or two items per transaction. Introducing combo offers, such as a coffee with a snack, could encourage customers to increase their average order value.
+4. **Customer Purchase Behaviour :** Most customers purchase one or two items per transaction. Introducing combo offers, such as a coffee with a snack, could encourage customers to increase their average order value.
 
 ## Tech Stack
 
