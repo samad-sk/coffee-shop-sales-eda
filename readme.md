@@ -6,8 +6,8 @@ Every transaction tells a story, but meaningful business decisions come from tur
 This project performs end-to-end data cleaning and exploratory data analysis on a real-world Coffee Shop Sales dataset from Maven Analytics using Python to uncover sales trends, customer purchasing patterns, product performance, and opportunities for business improvement.
 
 
-## Project Flow
-Raw Data → Data Cleaning (Pandas) → Exploratory Data Analysis (Pandas) → Visualization (Matplotlib + Seaborn) → Business Insights & Recommendations
+## Analysis Workflow
+Raw Data → Data Cleaning (Pandas) → Exploratory Data Analysis (Pandas) → Visualization (Matplotlib + Seaborn) → Business Insights & Recommendations.
 
 
 ## 🔎 Key Insights Discovered
@@ -17,7 +17,7 @@ Raw Data → Data Cleaning (Pandas) → Exploratory Data Analysis (Pandas) → V
 
 3. **Revenue Driver :** Correlation analysis shows that unit price (0.69) has a stronger relationship with revenue than quantity sold (0.36). This suggests that promoting higher-value products may have a greater impact on revenue growth than focusing only on increasing sales volume.
 
-4. **Customer Purchase Behaviour :** Most customers purchase one or two items per transaction. Introducing combo offers, such as a coffee with a snack, could encourage customers to increase their average order value.
+4. **Customer Purchase Behavior :** Most customers purchase one or two items per transaction. Introducing combo offers, such as a coffee with a snack, could encourage customers to increase their average order value.
 
 ## Tech Stack
 
