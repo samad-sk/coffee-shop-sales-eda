@@ -1,8 +1,6 @@
 # 🍵 Coffee Shop Sales — Exploratory Data Analysis
 
 ## Project Overview
-Every transaction tells a story, but meaningful business decisions come from turning thousands of records into actionable insights.
-
 This project performs end-to-end data cleaning and exploratory data analysis on a real-world Coffee Shop Sales dataset from Maven Analytics using Python to uncover sales trends, customer purchasing patterns, product performance, and opportunities for business improvement.
 
 
