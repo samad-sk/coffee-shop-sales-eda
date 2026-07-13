@@ -26,5 +26,5 @@ The project was built using the following tools and technologies:
 - Matplotlib - Created charts to analyze sales trends and product performance.
 - Seaborn - Built statistical visualizations, including distributions and correlation analysis.
 
-## Conclusion
-This project demonstrates how end-to-end exploratory data analysis can transform raw transaction data into actionable business insights.
+- **Notebook Link:** [Coffee_Shop_Sales_EDA.ipynb](*Jupyter Notebook:** [Coffee_Shop_Sales_EDA.ipynb](Coffee_Shop_Sales_EDA.ipynb))
+- **Portfolio:** https://samad-sk.github.io/
