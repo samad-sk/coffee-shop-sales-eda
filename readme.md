@@ -28,5 +28,5 @@ The project was built using the following tools and technologies:
 
 
 
-- **Notebook:** [Coffee_Shop_Sales_EDA.ipynb](https://github.com/yourusername/your-repository/blob/main/Coffee_Shop_Sales_EDA.ipynb)
+- **Notebook:** [Coffee_Shop_Sales_EDA.ipynb](https://github.com/samad-sk/Coffee-Shop-Sales-EDA/blob/main/coffee_shop_sales_eda.ipynb)
 - **Portfolio:** https://samad-sk.github.io/
