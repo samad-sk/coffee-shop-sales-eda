@@ -26,5 +26,7 @@ The project was built using the following tools and technologies:
 - Matplotlib - Created charts to analyze sales trends and product performance.
 - Seaborn - Built statistical visualizations, including distributions and correlation analysis.
 
-- **Notebook Link:** [Coffee_Shop_Sales_EDA.ipynb](*Jupyter Notebook:** [Coffee_Shop_Sales_EDA.ipynb](Coffee_Shop_Sales_EDA.ipynb))
+
+
+- **Notebook:** [Coffee_Shop_Sales_EDA.ipynb](https://github.com/yourusername/your-repository/blob/main/Coffee_Shop_Sales_EDA.ipynb)
 - **Portfolio:** https://samad-sk.github.io/
